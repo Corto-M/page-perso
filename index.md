@@ -2,21 +2,20 @@
   <img src="/images/avatar.png" alt="avatar" width="200"/>
 
 
-## About
+# About
 
 I am a PhD student in LaBRI, Bordeaux, under the supervision of Anca Muscholl and Igor Walukiewicz. My thesis is about monitoring and control problems over models of distributed systems, but I am interested in everything related to automata, logics and games.
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Contact
+
+- Mail: firstname.lastname@labri.fr
+- Address : Office 257, LaBRI 351, Cours de la Libération, building A30 F-33405 Talence Cedex (France)
+
+
 
 [Link](url) and ![Image](src)
 
