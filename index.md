@@ -28,8 +28,3 @@ with Stefan Kiefer, STACS 2019.  [pdf](/papers/Killing_words.pdf) / [journal ver
 - Mail: firstname.lastname@labri.fr
 - Address : Office 257, LaBRI  
 351, Cours de la Libération, F-33405 Talence Cedex, France
-
-
-
-[Link](url) and ![Image](src)
-
