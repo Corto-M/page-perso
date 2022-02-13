@@ -17,11 +17,11 @@ with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021. 
 - From LTL to rLTL Monitoring: Improved Monitorability through Robust Semantics.  
 with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020. [pdf](/papers/rLTL_monitoring.pdf) / [journal version](/papers/rLTL_monitoring_journal.pdf)
 
-- The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas. [pdf](/papers/HyperLTL_satisfiability.pdf)
-with Martin Zimmermann, CSL 2020
+- The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas. 
+with Martin Zimmermann, CSL 2020 [pdf](/papers/HyperLTL_satisfiability.pdf)
 
-- On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words.  [pdf](/papers/Killing_words.pdf) / [journal version](/papers/Killing_words_journal.pdf)
-with Stefan Kiefer, STACS 2019. 
+- On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words. 
+with Stefan Kiefer, STACS 2019.  [pdf](/papers/Killing_words.pdf) / [journal version](/papers/Killing_words_journal.pdf)
 
 # Contact
 
