@@ -8,6 +8,15 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 
 # Publications
 
+- Keyboards as a New Model of Computation.  
+with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021.
+
+- Responsibility and verification: Importance value in temporal logics.  
+with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021.
+
+- From LTL to rLTL Monitoring: Improved Monitorability through Robust Semantics.  
+with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020.
+
 - The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas.  
 with Martin Zimmermann, CSL 2020
 
