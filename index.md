@@ -13,7 +13,7 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of Anca Muscholl an
 # Contact
 
 - Mail: firstname.lastname@labri.fr
-- Address : Office 257, LaBRI 351, Cours de la Libération, building A30 F-33405 Talence Cedex (France)
+- Address : Office 257, LaBRI 351, Cours de la Libération, building A30 F-33405 Talence Cedex, France
 
 
 
