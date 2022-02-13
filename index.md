@@ -1,5 +1,4 @@
-  <head>
-  <title>Ma première page avec du style</title>
+
   <style type="text/css">
   body {
     padding-left: 11em;
@@ -30,7 +29,6 @@
   a:visited {
     color: purple }
   </style>
-</head>
   
   <img src="/images/avatar.png" alt="avatar" width="200"/>
 
