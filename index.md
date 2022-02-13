@@ -1,11 +1,6 @@
-<div class="column">
-  <div class="col-md-16" markdown="1">
-BEKF?LF?KMELFMPFO
-  </div>
-  <div class="col-md-16" markdown="2">
+
   <img src="/images/avatar.png" alt="avatar" width="200"/>
-  </div>
-</div>
+
 
 ## About
 
