@@ -1,10 +1,36 @@
-
-  <ul class="navbar">
-  <li><a href="index.html">Home page</a>
-  <li><a href="reflexions.html">Réflexions</a>
-  <li><a href="ville.html">Ma ville</a>
-  <li><a href="liens.html">Liens</a>
-</ul>
+  <head>
+  <title>Ma première page avec du style</title>
+  <style type="text/css">
+  body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: purple;
+    background-color: #d8da3d }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: blue }
+  a:visited {
+    color: purple }
+  </style>
+</head>
   
   <img src="/images/avatar.png" alt="avatar" width="200"/>
 
