@@ -1,8 +1,8 @@
 <div class="row">
-  <div class="col-md-8" markdown="1">
+  <div class="col-md-16" markdown="1">
   Some text.
   </div>
-  <div class="col-md-4" markdown="1">
+  <div class="col-md-16" markdown="2">
   <img src="/images/avatar.png" alt="avatar" width="200"/>
   </div>
 </div>
