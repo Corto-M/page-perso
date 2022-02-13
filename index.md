@@ -8,12 +8,16 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 
 # Publications
 
+- The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas.
+with Martin Zimmermann, CSL 2020
 
+- On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words.
+with Stefan Kiefer, STACS 2019. 
 
 # Contact
 
 - Mail: firstname.lastname@labri.fr
-- Address : Office 257, LaBRI 351, Cours de la Libération, building A30 F-33405 Talence Cedex, France
+- Address : Office 257, LaBRI 351, Cours de la Libération, F-33405 Talence Cedex, France
 
 
 
