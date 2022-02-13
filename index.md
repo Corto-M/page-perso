@@ -28,6 +28,10 @@ with Martin Zimmermann, CSL 2020
 with Stefan Kiefer, STACS 2019.  
 [pdf](/papers/Killing_words.pdf) / [journal version](/papers/Killing_words_journal.pdf)
 
+# Teaching
+
+- [Algorithmique et programmation fonctionnelle](https://www.u-bordeaux.fr/formation/2020/PRLIIN_110/informatique/enseignement/FRUAI0333298FCOEN_146308/algorithmique-et-programmation-fonctionnelle), Licence 2 Maths-Info, 2021/2022 
+
 # Contact
 
 - Mail: firstname.lastname@labri.fr
