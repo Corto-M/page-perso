@@ -1,7 +1,6 @@
 ## About
 
 <img src="/images/avatar.jpg" alt="avatar" width="200"/>
-![This is an image](/images/avatar.jpg)
 
 ## Welcome to GitHub Pages
 
