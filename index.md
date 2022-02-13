@@ -12,10 +12,10 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021. [pdf](/papers/Keyboards.pdf) / [arxiv with french version](https://arxiv.org/abs/2102.10182)
 
 - Responsibility and verification: Importance value in temporal logics.  
-with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021. [pdf](url) / [doi](url)
+with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021. [pdf](/papers/Responsibility.pdf)
 
 - From LTL to rLTL Monitoring: Improved Monitorability through Robust Semantics.  
-with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020. [pdf](url) / [doi](url) / [journal version](url)
+with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020. [pdf](/papers/rLTL monitoring.pdf) / [journal version](/papers/rLTL monitoring journal.pdf)
 
 - The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas. [pdf](url) / [doi](url)
 with Martin Zimmermann, CSL 2020
