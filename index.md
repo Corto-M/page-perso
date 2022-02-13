@@ -1,6 +1,6 @@
 ## About
 
-<img src="/images/avatar.jpg" alt="avatar" width="200"/>
+<img src="/images/avatar.png" alt="avatar" width="200"/>
 
 ## Welcome to GitHub Pages
 
