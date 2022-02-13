@@ -9,18 +9,18 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 # Publications
 
 - Keyboards as a New Model of Computation.  
-with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021.
+with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021. [pdf](/papers/Keyboards.pdf) / [arxiv with french version](https://arxiv.org/abs/2102.10182)
 
 - Responsibility and verification: Importance value in temporal logics.  
-with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021.
+with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021. [pdf](url) / [doi](url)
 
 - From LTL to rLTL Monitoring: Improved Monitorability through Robust Semantics.  
-with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020.
+with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020. [pdf](url) / [doi](url) / [journal version](url)
 
-- The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas.  
+- The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas. [pdf](url) / [doi](url)
 with Martin Zimmermann, CSL 2020
 
-- On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words.  
+- On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words.  [pdf](url) / [doi](url) / [journal version](url)
 with Stefan Kiefer, STACS 2019. 
 
 # Contact
