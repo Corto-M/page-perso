@@ -1,6 +1,17 @@
-## About
 
+:::::: {.cols data-latex=""}
+
+
+::: {.col data-latex="{0.5\textwidth}"}
 <img src="/images/avatar.png" alt="avatar" width="200"/>
+:::
+
+::: {.col data-latex="{0.4\textwidth}"}
+## About
+:::
+
+
+
 
 ## Welcome to GitHub Pages
 
