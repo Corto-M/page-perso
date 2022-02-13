@@ -9,19 +9,24 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 # Publications
 
 - Keyboards as a New Model of Computation.  
-with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021. [pdf](/papers/Keyboards.pdf) / [arxiv with french version](https://arxiv.org/abs/2102.10182)
+with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021.  
+[pdf](/papers/Keyboards.pdf) / [arxiv with french version](https://arxiv.org/abs/2102.10182)
 
 - Responsibility and verification: Importance value in temporal logics.  
-with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021. [pdf](/papers/Responsibility.pdf)
+with Christel Baier, Florian Funke, Simon Jantsch and Stefan Kiefer, LICS 2021.  
+[pdf](/papers/Responsibility.pdf)
 
 - From LTL to rLTL Monitoring: Improved Monitorability through Robust Semantics.  
-with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020. [pdf](/papers/rLTL_monitoring.pdf) / [journal version](/papers/rLTL_monitoring_journal.pdf)
+with Daniel Neider, Maximilian Schwenger, Paulo Tabuada, Alexander Weinert and Martin Zimmermann, HSCC 2020.  
+[pdf](/papers/rLTL_monitoring.pdf) / [journal version](/papers/rLTL_monitoring_journal.pdf)
 
 - The Keys to Decidable HyperLTL Satisfiability: Small Models or Very Simple Formulas. 
-with Martin Zimmermann, CSL 2020 [pdf](/papers/HyperLTL_satisfiability.pdf)
+with Martin Zimmermann, CSL 2020  
+[pdf](/papers/HyperLTL_satisfiability.pdf)
 
 - On Finite Monoids over Nonnegative Integer Matrices and Short Killing Words. 
-with Stefan Kiefer, STACS 2019.  [pdf](/papers/Killing_words.pdf) / [journal version](/papers/Killing_words_journal.pdf)
+with Stefan Kiefer, STACS 2019.  
+[pdf](/papers/Killing_words.pdf) / [journal version](/papers/Killing_words_journal.pdf)
 
 # Contact
 
