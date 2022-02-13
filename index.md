@@ -3,7 +3,6 @@
   Some text.
   </div>
   <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](../img/folder/blah.jpg) -->
   <img src="/images/avatar.png" alt="avatar" width="200"/>
   </div>
 </div>
