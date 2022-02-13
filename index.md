@@ -1,11 +1,5 @@
 
-  <style type="text/css">
-  body {
-    padding-left: 11em;
-    font-family: Georgia, "Times New Roman",
-          Times, serif;
-    color: purple;
-    background-color: #d8da3d }
+
   ul.navbar {
     list-style-type: none;
     padding: 0;
@@ -24,11 +18,6 @@
     border-right: 1em solid black }
   ul.navbar a {
     text-decoration: none }
-  a:link {
-    color: blue }
-  a:visited {
-    color: purple }
-  </style>
   
   <img src="/images/avatar.png" alt="avatar" width="200"/>
 
