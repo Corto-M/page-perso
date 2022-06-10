@@ -8,7 +8,7 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 
 # Publications
 
-- Keyboards as a New Model of Computation.  
+- Distributed controller synthesis for deadlock avoidance.  
 with Hugo Gimbert, Anca Muscholl and Igor Walukiewicz, ICALP 2022.  
 [pdf](/papers/LSS.pdf)
 
