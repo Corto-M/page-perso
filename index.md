@@ -9,7 +9,11 @@ I am a PhD student in LaBRI, Bordeaux, under the supervision of [Anca Muscholl](
 # Publications
 
 - Keyboards as a New Model of Computation.  
-with Yoan Géran, Bastien Laboureix, Corto Mascle and Valentin D. Richard, MFCS 2021.  
+with Hugo Gimbert, Anca Muscholl and Igor Walukiewicz, ICALP 2022.  
+[pdf](/papers/LSS.pdf)
+
+- Keyboards as a New Model of Computation.  
+with Yoan Géran, Bastien Laboureix and Valentin D. Richard, MFCS 2021.  
 [pdf](/papers/Keyboards.pdf) / [arxiv with french version](https://arxiv.org/abs/2102.10182)
 
 - Responsibility and verification: Importance value in temporal logics.  
