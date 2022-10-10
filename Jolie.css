@@ -1,0 +1,104 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: azure;
+    flex-wrap: wrap;
+}
+
+.columns
+{
+    display: flex;
+}
+
+.portrait
+{
+    float: right;
+    padding-top: 0.2cm;
+    padding-right: 1cm;
+}
+
+.column
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.labo
+{
+    font-size:x-large;
+}
+
+h2
+{
+    clear: both;
+}
+
+header
+{
+    background-color: black;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer
+{
+    background-color: black;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.nomlabo
+{
+    display: flex;
+    flex-direction: column;
+    padding-left: 1cm;
+}
+
+.papertitle
+{
+    font-weight: bold;
+}
+
+header a
+{
+    color:white;
+    text-decoration: none;
+}
+
+header ul
+{
+    font-size: x-large;
+    display: flex;
+    flex-direction:row;
+    gap: 1cm;
+    vertical-align: middle;
+}
+
+header ul a:hover
+{
+    color: black;
+    background-color: white;    
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+section p
+{
+    text-align: justify;
+}
+
+section[id]
+{
+    background-color: white;
+    border-radius: 3em;
+    width:70%;
+    padding:0.3cm;
+    margin: 0.5cm;
+}
