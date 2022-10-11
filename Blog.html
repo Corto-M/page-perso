@@ -35,7 +35,7 @@
     </h1>
     
     <p>
-        
+       We are given two finite sets of finite words, we have to find a formula that is satisfied by all the words of the first set but none of the second. 
     </p>    
 </section>
 
@@ -45,7 +45,8 @@
     </h1>
     
     <p>
-        
+        Finite automata are running in parallel. They have access to a shared set of locks, that they may acquire or release. 
+        May they end up blocking each other ?
     </p>    
 </section>
 
@@ -56,18 +57,23 @@
     </h1>
     
     <p>
-        
+        We are given a non-deterministic automaton. 
+        An adversary chooses an infinite word w in the language of that automaton and gives us the letters one by one.
+        At each step we have to answer with a transition so that we ultimately describe an infinite run of the automaton accepting w.
+        One tweak: we are allowed to toss a coin when we make our choices! Can we succeed for all w? 
     </p>    
 </section>
 
 <section id="Negotiations">
     <h1>
-        Negotiations
+        Sound deterministic negotiations
     </h1>
     
     <p>
-        
-    </p>    
+        In the wild and complicated world of distributed systems, sound deterministic negotiations offer a very (maybe too?) structured behaviour: 
+        The processes communicate through scheduled appointments, allowing them to know when and where they will meet each other.
+        Where does this model stand between sequential and distributed automata?  
+    </p>     
 </section>
 
 <section id="Responsibility">
@@ -76,7 +82,8 @@
     </h1>
     
     <p>
-        
+        Various components of a system are working as a team to achieve a common objective.
+        How can we measure the importance a given componenet has with respect to that goal?
     </p>    
 </section>
 
@@ -86,7 +93,8 @@
     </h1>
     
     <p>
-        
+        Someone messed with your keyboard: The keys do not behave as they should, your backspace writes three letters, your 'a' key erases two and goes to the left,...
+        Which words can you type with your new keyboard?
     </p>    
 </section>
 
@@ -96,7 +104,10 @@
     </h1>
     
     <p>
-        
+        You arrive in front of a large number of copies of the same automaton. All you can do is yell letters one after the other.
+        Every time your automata will change their state according to the letter you gave.
+        The problem is that your automata are non-deterministic and, when faced with several transitions for the same letter, will chose at random.
+        Can you get them all to an accepting state?
     </p>    
 </section>
 
@@ -107,7 +118,8 @@
     </h1>
     
     <p>
-        
+        Hyper-Welcome to the hyper-world of hyper logics! 
+        We adapt classical logics on infinite words to get them to talk about SETS of infinite words.
     </p>    
 </section>
 
@@ -117,7 +129,9 @@
     </h1>
     
     <p>
-        
+        Given an incomplete non-deterministic automaton, can we find a word that cannot be read from any state? 
+        This problem is a difficult one in general, but here we will show that it gets easier when restricted to unambiguous automata,
+        and link this to the theory of codes!
     </p>    
 </section>
 
