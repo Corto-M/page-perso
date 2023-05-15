@@ -36,7 +36,6 @@ h2
 header
 {
     background-color: black;
-    color: azure;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
