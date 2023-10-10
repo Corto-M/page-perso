@@ -2,7 +2,6 @@ body
 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: azure;
-    flex-wrap: wrap;
 }
 
 .columns
@@ -52,7 +51,7 @@ footer
 
 .nomlabo
 {
-    display: flex;
+    color: aliceblue;
     flex-direction: column;
     padding-left: 1cm;
 }
