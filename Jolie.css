@@ -7,7 +7,10 @@ body
 .columns
 {
     display: flex;
+    padding-right: -2cm;
+    padding-left: 1cm;
 }
+
 
 .portrait
 {
